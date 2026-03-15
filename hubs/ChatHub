@@ -1,14 +1,12 @@
-using System.Net.WebSockets;
-using System.Reflection;
 using Microsoft.AspNetCore.SignalR;
 
 namespace SignalRChat.hubs
 {
-    public class ChatHub : hub
+    public class ChatHub : Hub
     {
         public async Task SendMessage(string user, string message)
         {
-            await Clients.All.Sendasync("Recebeu mensagem", user, message);
+            await Clients.All.Sendasync("ReceiveMessage", user, message);
         }
     }
 }

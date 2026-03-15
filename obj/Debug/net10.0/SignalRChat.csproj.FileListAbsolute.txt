@@ -6,3 +6,4 @@
 /home/bruno/Documents/Projetos/RealTime/SignalRChat/obj/Debug/net10.0/SignalRChat.MvcApplicationPartsAssemblyInfo.cache
 /home/bruno/Documents/Projetos/RealTime/SignalRChat/obj/Debug/net10.0/SignalRChat.RazorAssemblyInfo.cache
 /home/bruno/Documents/Projetos/RealTime/SignalRChat/obj/Debug/net10.0/SignalRChat.RazorAssemblyInfo.cs
+/home/bruno/Documents/Projetos/RealTime/SignalRChat/obj/Debug/net10.0/SignalRChat.sourcelink.json
